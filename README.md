@@ -89,3 +89,13 @@ The BlinkIT sales dashboard provides valuable insights into product demand and o
 Author
 
 Ganji Saiteja
+## Dashboard Preview
+
+### Sales Overview
+![Sales Overview](de6f438a-1.png)
+
+### Product Analysis
+![Product Analysis](de6f438a-2.png)
+
+### Outlet Performance
+![Outlet Performance](de6f438a-3.png)
